@@ -1,0 +1,3 @@
+Each page of the quarterly report PDFs that is processed by `Extract_goal_targets_using_Claude.ipynb` is saved in this directory as a PNG image file.
+
+This folder is cleared after each report is processed.
